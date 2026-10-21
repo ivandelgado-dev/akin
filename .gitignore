@@ -25,4 +25,8 @@ models/
 # Sistema
 .DS_Store
 experiments/**/_obsoleto/
+# Imagenes en experiments/: nunca. Los mosaicos de anotacion llevaban fotos de
+# DeepFashion, que no se pueden redistribuir. Viven en data/mosaicos_anotacion/.
+experiments/**/*.jpg
+experiments/**/*.png
 _to_delete/
