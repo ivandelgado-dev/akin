@@ -2,7 +2,7 @@
 
 **Le subes la foto de un look y busca en tu propio armario las prendas que más se parecen.** O le pides un estilo y te monta conjuntos con tu ropa, explicando por qué.
 
-Trabajo de Fin de Máster · Máster en Data Science y Desarrollo de IA · Evolve Academy · 2026<br>
+Trabajo de Fin de Máster · Máster en Data Science y Desarrollo de IA · Evolve Academy · 2026 · Calificación: 10<br>
 Autor: **Iván Delgado**
 
 ![Akin: «Ya lo tienes. Solo hay que encontrarlo.»](docs/assets/app_inicio.png)
@@ -136,6 +136,6 @@ DeepFashion resultó ser mayoritariamente ropa de mujer, incluso filtrando por c
 
 ## Contexto académico
 
-El proyecto se fue construyendo en cinco entregas a lo largo del máster, todas en [`docs/entregas/`](docs/entregas/): ideación, selección de idea y datos, modelo de datos, estrategia de modelado y diseño del frontal. La defensa fue el 30 de septiembre de 2026, enseñando la app en directo.
+El proyecto se fue construyendo en cinco entregas a lo largo del máster, todas en [`docs/entregas/`](docs/entregas/): ideación, selección de idea y datos, modelo de datos, estrategia de modelado y diseño del frontal. La defensa fue el 30 de septiembre de 2026, enseñando la app en directo. Calificación final: 10.
 
 Semillas fijadas (42), un `config.yaml` por corrida y el conjunto de test evaluado una sola vez, al final.
