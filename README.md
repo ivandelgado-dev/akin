@@ -2,10 +2,10 @@
 
 **Le subes la foto de un look y busca en tu propio armario las prendas que más se parecen.** O le pides un estilo y te monta conjuntos con tu ropa, explicando por qué.
 
-Trabajo de Fin de Máster · Máster en Data Science y Desarrollo de IA · Evolve Academy · 2026
+Trabajo de Fin de Máster · Máster en Data Science y Desarrollo de IA · Evolve Academy · 2026<br>
 Autor: **Iván Delgado**
 
-![Akin: buscar un look en tu armario](docs/assets/app_buscar_desde_una_foto.png)
+![Akin: «Ya lo tienes. Solo hay que encontrarlo.»](docs/assets/app_inicio.png)
 
 ---
 
@@ -23,13 +23,16 @@ Akin trabaja solo con tu armario. Alcance: ropa de hombre.
 | **Buscar desde una foto** | La foto se corta por zonas y por capas (arriba, encima, abajo). Cada zona se compara solo con tus prendas de esa posición. Puedes elegir qué pesa más (forma, color o tela) o pedirlo con tus palabras: «de manga larga». |
 | **Por estilo** | Eliges una prenda tuya y uno de 10 estilos. Te dice si encaja y por qué, y monta conjuntos con tu ropa, incluida la camiseta que va debajo de una sudadera. Cada look se puede valorar. |
 
+**Buscar desde una foto:** a la izquierda, la foto del look; a la derecha, lo más parecido de mi armario para cada parte.
+
+![Buscar desde una foto](docs/assets/app_buscar_desde_una_foto.png)
+
 <p>
 <img src="docs/assets/app_buscar_por_estilo_una_prenda_mia.png" width="49%" alt="Por estilo: una prenda mía">
 <img src="docs/assets/app_buscar_por_estilo_ns_que_ponerme.png" width="49%" alt="Por estilo: no sé qué ponerme">
 </p>
-<p>
+<p align="center">
 <img src="docs/assets/app_mi_armario.png" width="49%" alt="Mi armario">
-<img src="docs/assets/app_inicio.png" width="49%" alt="Inicio">
 </p>
 
 ## Cómo funciona
