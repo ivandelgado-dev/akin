@@ -17,23 +17,29 @@ Akin trabaja solo con tu armario. Alcance: ropa de hombre.
 
 ## Qué hace
 
-| | |
-|---|---|
-| **Mi armario** | Subes fotos de tus prendas, de una en una o hasta 40 de golpe. La IA rellena tipo, color, tejido y manga, y tú corriges lo que esté mal. Avisa si la foto tiene una persona, no tiene ropa o la prenda ya está guardada. |
-| **Buscar desde una foto** | La foto se corta por zonas y por capas (arriba, encima, abajo). Cada zona se compara solo con tus prendas de esa posición. Puedes elegir qué pesa más (forma, color o tela) o pedirlo con tus palabras: «de manga larga». |
-| **Por estilo** | Eliges una prenda tuya y uno de 10 estilos. Te dice si encaja y por qué, y monta conjuntos con tu ropa, incluida la camiseta que va debajo de una sudadera. Cada look se puede valorar. |
+### 1. Mi armario
 
-**Buscar desde una foto:** a la izquierda, la foto del look; a la derecha, lo más parecido de mi armario para cada parte.
+Subes fotos de tus prendas, de una en una o hasta 40 de golpe. La IA rellena tipo, color, tejido y manga, y tú corriges lo que esté mal: lo que pones tú manda. Avisa si la foto tiene una persona, no tiene ropa o la prenda ya está guardada.
+
+![Mi armario](docs/assets/app_mi_armario.png)
+
+### 2. Buscar desde una foto
+
+Subes la foto de un look. La IA dice qué lleva, por capas, y la foto se corta por zonas: lo de arriba solo se compara con tus prendas de arriba, lo de abajo con las de abajo. Para cada parte sale tu prenda más parecida y dos alternativas. Puedes elegir qué pesa más (forma, color o tela) o pedirlo con tus palabras: «de manga larga».
 
 ![Buscar desde una foto](docs/assets/app_buscar_desde_una_foto.png)
 
-<p>
-<img src="docs/assets/app_buscar_por_estilo_una_prenda_mia.png" width="49%" alt="Por estilo: una prenda mía">
-<img src="docs/assets/app_buscar_por_estilo_ns_que_ponerme.png" width="49%" alt="Por estilo: no sé qué ponerme">
-</p>
-<p align="center">
-<img src="docs/assets/app_mi_armario.png" width="49%" alt="Mi armario">
-</p>
+### 3. Por estilo, con una prenda tuya
+
+Eliges una prenda y uno de 10 estilos. Te dice si encaja y por qué, en qué otros estilos sí pega, y monta looks con tu ropa. Cada look explica por qué sale y se puede valorar.
+
+![Por estilo: una prenda mía](docs/assets/app_buscar_por_estilo_una_prenda_mia.png)
+
+### 4. Por estilo, sin saber qué ponerte
+
+Eliges solo el estilo y monta el look entero. Si lleva sudadera o jersey, añade la camiseta que va debajo.
+
+![Por estilo: no sé qué ponerme](docs/assets/app_buscar_por_estilo_ns_que_ponerme.png)
 
 ## Cómo funciona
 
